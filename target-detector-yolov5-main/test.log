@@ -1,0 +1,370 @@
+2023-10-12 18:41:36,274:DEBUG:diff parser start
+2023-10-12 18:41:36,275:DEBUG:line_lengths old: 5; new: 6
+2023-10-12 18:41:36,275:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:36,277:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:36,277:DEBUG:-> code[insert] old[5:4] new[5:5]
+2023-10-12 18:41:36,278:DEBUG:parse_part from 5 to 6 (to 5 in part parser)
+2023-10-12 18:41:36,278:DEBUG:-> code[equal] old[5:5] new[6:6]
+2023-10-12 18:41:36,279:DEBUG:diff parser end
+2023-10-12 18:41:39,371:DEBUG:diff parser start
+2023-10-12 18:41:39,372:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:39,372:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:39,373:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:39,373:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:39,375:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:39,375:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:39,376:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:39,376:DEBUG:diff parser end
+2023-10-12 18:41:39,606:DEBUG:pickle loaded: /usr/lib/python3.9/logging/__init__.py
+2023-10-12 18:41:39,648:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/2and3/logging/__init__.pyi
+2023-10-12 18:41:42,272:DEBUG:diff parser start
+2023-10-12 18:41:42,273:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:42,273:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:42,273:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:42,274:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:42,275:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:42,275:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:42,276:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:42,276:DEBUG:diff parser end
+2023-10-12 18:41:43,045:DEBUG:diff parser start
+2023-10-12 18:41:43,046:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:43,046:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:43,047:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:43,047:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:43,048:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:43,048:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:43,049:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:43,049:DEBUG:diff parser end
+2023-10-12 18:41:44,298:DEBUG:diff parser start
+2023-10-12 18:41:44,299:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:44,299:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:44,299:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:44,300:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:44,301:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:44,301:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:44,302:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:44,303:DEBUG:diff parser end
+2023-10-12 18:41:44,469:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2023-10-12 18:41:44,482:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-10-12 18:41:45,461:DEBUG:diff parser start
+2023-10-12 18:41:45,461:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:45,461:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:45,462:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:45,462:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:45,464:DEBUG:parse_part from 5 to 6 (to 5 in part parser)
+2023-10-12 18:41:45,464:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:45,464:DEBUG:diff parser end
+2023-10-12 18:41:47,016:DEBUG:diff parser start
+2023-10-12 18:41:47,017:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:47,018:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:47,019:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:47,020:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:47,022:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:47,023:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:47,024:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:47,025:DEBUG:diff parser end
+2023-10-12 18:41:48,366:DEBUG:diff parser start
+2023-10-12 18:41:48,367:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:48,368:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:48,369:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:48,370:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:48,374:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:48,375:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:48,378:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:48,380:DEBUG:diff parser end
+2023-10-12 18:41:50,066:DEBUG:diff parser start
+2023-10-12 18:41:50,067:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:50,068:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:50,068:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:50,069:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:50,070:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:50,070:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:50,071:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:50,072:DEBUG:diff parser end
+2023-10-12 18:41:52,173:DEBUG:diff parser start
+2023-10-12 18:41:52,174:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:52,174:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:52,175:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:52,175:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:52,177:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:52,177:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:52,178:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:52,179:DEBUG:diff parser end
+2023-10-12 18:41:52,636:DEBUG:diff parser start
+2023-10-12 18:41:52,637:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:52,637:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:52,637:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:52,638:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:52,639:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:52,640:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:52,641:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:52,642:DEBUG:diff parser end
+2023-10-12 18:41:53,598:DEBUG:diff parser start
+2023-10-12 18:41:53,600:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:53,600:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:53,602:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:53,603:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:53,606:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:53,607:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:53,609:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:53,611:DEBUG:diff parser end
+2023-10-12 18:41:55,662:DEBUG:diff parser start
+2023-10-12 18:41:55,663:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:55,664:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:55,665:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:55,666:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:55,669:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:55,670:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:55,672:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:55,673:DEBUG:diff parser end
+2023-10-12 18:41:56,331:DEBUG:diff parser start
+2023-10-12 18:41:56,332:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:56,333:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:56,335:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:56,335:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:56,338:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:56,339:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:56,341:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:56,342:DEBUG:diff parser end
+2023-10-12 18:41:56,738:DEBUG:diff parser start
+2023-10-12 18:41:56,739:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:56,739:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:56,740:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:56,740:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:56,742:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:56,743:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:56,743:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:56,744:DEBUG:diff parser end
+2023-10-12 18:41:57,534:DEBUG:diff parser start
+2023-10-12 18:41:57,535:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:57,537:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:57,538:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:57,539:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:57,540:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:57,541:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:57,542:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:57,543:DEBUG:diff parser end
+2023-10-12 18:41:58,630:DEBUG:diff parser start
+2023-10-12 18:41:58,631:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:58,631:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:58,632:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:58,632:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:58,633:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:58,634:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:58,635:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:58,635:DEBUG:diff parser end
+2023-10-12 18:41:59,250:DEBUG:diff parser start
+2023-10-12 18:41:59,250:DEBUG:line_lengths old: 6; new: 6
+2023-10-12 18:41:59,250:DEBUG:-> code[equal] old[1:4] new[1:4]
+2023-10-12 18:41:59,251:DEBUG:copy old[1:4] new[1:4]
+2023-10-12 18:41:59,251:DEBUG:-> code[replace] old[5:5] new[5:5]
+2023-10-12 18:41:59,253:DEBUG:parse_part from 5 to 5 (to 5 in part parser)
+2023-10-12 18:41:59,253:DEBUG:-> code[equal] old[6:6] new[6:6]
+2023-10-12 18:41:59,254:DEBUG:parse_part from 6 to 6 (to 5 in part parser)
+2023-10-12 18:41:59,255:DEBUG:diff parser end
+2023-10-12 18:42:26,449:DEBUG:Test logfile
+2023-10-12 18:44:23,424:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/2and3/time.pyi
+2023-10-12 18:44:38,199:DEBUG:diff parser start
+2023-10-12 18:44:38,200:DEBUG:line_lengths old: 11; new: 11
+2023-10-12 18:44:38,200:DEBUG:-> code[equal] old[1:7] new[1:7]
+2023-10-12 18:44:38,202:DEBUG:copy old[1:6] new[1:6]
+2023-10-12 18:44:38,207:DEBUG:parse_part from 7 to 8 (to 8 in part parser)
+2023-10-12 18:44:38,207:DEBUG:-> code[replace] old[8:8] new[8:8]
+2023-10-12 18:44:38,208:DEBUG:-> code[equal] old[9:11] new[9:11]
+2023-10-12 18:44:38,211:DEBUG:parse_part from 9 to 9 (to 9 in part parser)
+2023-10-12 18:44:38,212:DEBUG:copy old[10:10] new[10:10]
+2023-10-12 18:44:38,213:DEBUG:parse_part from 11 to 11 (to 10 in part parser)
+2023-10-12 18:44:38,214:DEBUG:diff parser end
+2023-10-12 18:44:53,063:DEBUG:diff parser start
+2023-10-12 18:44:53,064:DEBUG:line_lengths old: 11; new: 14
+2023-10-12 18:44:53,065:DEBUG:-> code[equal] old[1:10] new[1:10]
+2023-10-12 18:44:53,066:DEBUG:copy old[1:10] new[1:10]
+2023-10-12 18:44:53,067:DEBUG:-> code[insert] old[11:10] new[11:13]
+2023-10-12 18:44:53,071:DEBUG:parse_part from 11 to 13 (to 13 in part parser)
+2023-10-12 18:44:53,072:DEBUG:-> code[equal] old[11:11] new[14:14]
+2023-10-12 18:44:53,074:DEBUG:parse_part from 14 to 14 (to 13 in part parser)
+2023-10-12 18:44:53,075:DEBUG:diff parser end
+2023-10-12 18:45:27,558:DEBUG:diff parser start
+2023-10-12 18:45:27,561:DEBUG:line_lengths old: 14; new: 20
+2023-10-12 18:45:27,562:DEBUG:-> code[equal] old[1:10] new[1:10]
+2023-10-12 18:45:27,563:DEBUG:copy old[1:10] new[1:10]
+2023-10-12 18:45:27,564:DEBUG:-> code[insert] old[11:10] new[11:13]
+2023-10-12 18:45:27,567:DEBUG:parse_part from 11 to 13 (to 15 in part parser)
+2023-10-12 18:45:27,567:DEBUG:-> code[equal] old[11:11] new[14:14]
+2023-10-12 18:45:27,569:DEBUG:parse_part from 14 to 16 (to 16 in part parser)
+2023-10-12 18:45:27,570:DEBUG:-> code[insert] old[12:11] new[15:17]
+2023-10-12 18:45:27,572:DEBUG:parse_part from 17 to 17 (to 18 in part parser)
+2023-10-12 18:45:27,573:DEBUG:-> code[equal] old[12:14] new[18:20]
+2023-10-12 18:45:27,575:DEBUG:parse_part from 18 to 19 (to 19 in part parser)
+2023-10-12 18:45:27,576:DEBUG:parse_part from 20 to 20 (to 19 in part parser)
+2023-10-12 18:45:27,577:DEBUG:diff parser end
+2023-10-12 18:45:37,580:DEBUG:diff parser start
+2023-10-12 18:45:37,581:DEBUG:line_lengths old: 20; new: 23
+2023-10-12 18:45:37,581:DEBUG:-> code[equal] old[1:6] new[1:6]
+2023-10-12 18:45:37,582:DEBUG:copy old[1:6] new[1:6]
+2023-10-12 18:45:37,582:DEBUG:-> code[replace] old[7:7] new[7:10]
+2023-10-12 18:45:37,585:DEBUG:parse_part from 7 to 10 (to 10 in part parser)
+2023-10-12 18:45:37,585:DEBUG:-> code[equal] old[8:20] new[11:23]
+2023-10-12 18:45:37,590:DEBUG:parse_part from 11 to 11 (to 11 in part parser)
+2023-10-12 18:45:37,592:DEBUG:copy old[9:19] new[12:22]
+2023-10-12 18:45:37,594:DEBUG:parse_part from 23 to 23 (to 22 in part parser)
+2023-10-12 18:45:37,595:DEBUG:diff parser end
+2023-10-12 18:45:37,644:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/pygame/__init__.py
+2023-10-12 18:45:43,120:DEBUG:diff parser start
+2023-10-12 18:45:43,121:DEBUG:line_lengths old: 23; new: 22
+2023-10-12 18:45:43,122:DEBUG:-> code[equal] old[1:6] new[1:6]
+2023-10-12 18:45:43,123:DEBUG:copy old[1:6] new[1:6]
+2023-10-12 18:45:43,124:DEBUG:-> code[replace] old[7:8] new[7:7]
+2023-10-12 18:45:43,125:DEBUG:parse_part from 7 to 8 (to 8 in part parser)
+2023-10-12 18:45:43,125:DEBUG:-> code[equal] old[9:23] new[8:22]
+2023-10-12 18:45:43,126:DEBUG:copy old[10:22] new[9:21]
+2023-10-12 18:45:43,128:DEBUG:parse_part from 22 to 22 (to 21 in part parser)
+2023-10-12 18:45:43,129:DEBUG:diff parser end
+2023-10-12 18:45:44,705:DEBUG:diff parser start
+2023-10-12 18:45:44,706:DEBUG:line_lengths old: 22; new: 21
+2023-10-12 18:45:44,706:DEBUG:-> code[equal] old[1:6] new[1:6]
+2023-10-12 18:45:44,707:DEBUG:copy old[1:6] new[1:6]
+2023-10-12 18:45:44,708:DEBUG:-> code[delete] old[7:7] new[7:6]
+2023-10-12 18:45:44,708:DEBUG:-> code[equal] old[8:22] new[7:21]
+2023-10-12 18:45:44,710:DEBUG:parse_part from 7 to 7 (to 7 in part parser)
+2023-10-12 18:45:44,712:DEBUG:copy old[9:21] new[8:20]
+2023-10-12 18:45:44,713:DEBUG:parse_part from 21 to 21 (to 20 in part parser)
+2023-10-12 18:45:44,713:DEBUG:diff parser end
+2023-10-12 18:54:48,042:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2023-10-12 18:54:48,135:DEBUG:pickle loaded: /usr/local/lib/python3.9/dist-packages/torch/__init__.py
+2023-10-12 18:54:48,170:DEBUG:pickle loaded: /usr/local/lib/python3.9/dist-packages/torch/hub.py
+2023-10-12 18:54:48,295:DEBUG:pickle loaded: /usr/lib/python3.9/os.py
+2023-10-12 18:54:48,340:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/3/os/__init__.pyi
+2023-10-12 18:54:48,383:DEBUG:pickle loaded: /usr/lib/python3.9/posixpath.py
+2023-10-12 18:54:48,412:DEBUG:pickle loaded: /usr/lib/python3.9/ntpath.py
+2023-10-12 18:54:48,427:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/3/os/path.pyi
+2023-10-12 18:54:48,514:DEBUG:pickle loaded: /usr/lib/python3.9/typing.py
+2023-10-12 18:54:48,552:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+2023-10-12 18:54:49,557:DEBUG:pickle loaded: /usr/lib/python3.9/abc.py
+2023-10-12 18:54:49,560:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/3/abc.pyi
+2023-10-12 18:54:50,097:DEBUG:pickle loaded: /usr/local/lib/python3.9/dist-packages/torch/storage.py
+2023-10-12 18:54:52,104:DEBUG:pickle loaded: /usr/local/lib/python3.9/dist-packages/torch/serialization.py
+2023-10-12 18:54:52,135:DEBUG:pickle loaded: /usr/local/lib/python3.9/dist-packages/torch/_deploy.py
+2023-10-12 18:54:52,141:DEBUG:pickle loaded: /usr/local/lib/python3.9/dist-packages/torch/package/__init__.py
+2023-10-12 18:54:52,147:DEBUG:pickle loaded: /usr/local/lib/python3.9/dist-packages/torch/package/_package_unpickler.py
+2023-10-12 18:54:52,230:DEBUG:pickle loaded: /usr/lib/python3.9/pickle.py
+2023-10-12 18:54:52,238:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/2and3/pickle.pyi
+2023-10-12 18:54:52,283:DEBUG:pickle loaded: /usr/local/lib/python3.9/dist-packages/torch/package/importer.py
+2023-10-12 18:54:52,295:DEBUG:pickle loaded: /usr/lib/python3.9/io.py
+2023-10-12 18:54:52,310:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/3/io.pyi
+2023-10-12 18:54:52,344:DEBUG:pickle loaded: /usr/local/lib/python3.9/dist-packages/torch/jit/__init__.py
+2023-10-12 18:54:52,356:DEBUG:pickle loaded: /usr/local/lib/python3.9/dist-packages/torch/jit/_serialization.py
+2023-10-12 18:54:52,437:DEBUG:pickle loaded: /usr/local/lib/python3.9/dist-packages/torch/_weights_only_unpickler.py
+2023-10-12 18:54:52,591:DEBUG:pickle loaded: /usr/lib/python3.9/importlib/__init__.py
+2023-10-12 18:54:52,594:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/3/importlib/__init__.pyi
+2023-10-12 18:54:52,608:DEBUG:pickle loaded: /usr/lib/python3.9/importlib/util.py
+2023-10-12 18:54:52,612:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/3/importlib/util.pyi
+2023-10-12 18:54:52,629:DEBUG:pickle loaded: /usr/lib/python3.9/types.py
+2023-10-12 18:54:52,645:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/3/types.pyi
+2023-10-12 18:54:52,657:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/3/_importlib_modulespec.pyi
+2023-10-12 18:55:38,412:DEBUG:diff parser start
+2023-10-12 18:55:38,413:DEBUG:line_lengths old: 73; new: 68
+2023-10-12 18:55:38,413:DEBUG:-> code[equal] old[1:25] new[1:25]
+2023-10-12 18:55:38,414:DEBUG:copy old[1:13] new[1:13]
+2023-10-12 18:55:38,440:DEBUG:parse_part from 14 to 66 (to 66 in part parser)
+2023-10-12 18:55:38,441:DEBUG:-> code[replace] old[26:31] new[26:26]
+2023-10-12 18:55:38,441:DEBUG:-> code[equal] old[32:73] new[27:68]
+2023-10-12 18:55:38,441:DEBUG:copy old[72:72] new[67:67]
+2023-10-12 18:55:38,443:DEBUG:parse_part from 68 to 68 (to 67 in part parser)
+2023-10-12 18:55:38,444:DEBUG:diff parser end
+2023-10-12 19:00:55,711:DEBUG:Test logfile
+2023-10-12 19:03:41,200:DEBUG:pickle loaded: /usr/lib/python3.9/logging/__init__.py
+2023-10-12 19:03:41,275:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/2and3/logging/__init__.pyi
+2023-10-12 19:06:46,317:DEBUG:diff parser start
+2023-10-12 19:06:46,318:DEBUG:line_lengths old: 68; new: 68
+2023-10-12 19:06:46,319:DEBUG:-> code[equal] old[1:25] new[1:25]
+2023-10-12 19:06:46,321:DEBUG:copy old[1:13] new[1:13]
+2023-10-12 19:06:46,349:DEBUG:parse_part from 14 to 66 (to 66 in part parser)
+2023-10-12 19:06:46,350:DEBUG:-> code[replace] old[26:26] new[26:26]
+2023-10-12 19:06:46,350:DEBUG:-> code[equal] old[27:68] new[27:68]
+2023-10-12 19:06:46,352:DEBUG:copy old[67:67] new[67:67]
+2023-10-12 19:06:46,353:DEBUG:parse_part from 68 to 68 (to 67 in part parser)
+2023-10-12 19:06:46,353:DEBUG:diff parser end
+2023-10-12 19:06:47,300:DEBUG:diff parser start
+2023-10-12 19:06:47,301:DEBUG:line_lengths old: 68; new: 73
+2023-10-12 19:06:47,302:DEBUG:-> code[equal] old[1:25] new[1:25]
+2023-10-12 19:06:47,303:DEBUG:copy old[1:13] new[1:13]
+2023-10-12 19:06:47,327:DEBUG:parse_part from 14 to 71 (to 71 in part parser)
+2023-10-12 19:06:47,327:DEBUG:-> code[replace] old[26:26] new[26:31]
+2023-10-12 19:06:47,327:DEBUG:-> code[equal] old[27:68] new[32:73]
+2023-10-12 19:06:47,328:DEBUG:copy old[67:67] new[72:72]
+2023-10-12 19:06:47,328:DEBUG:parse_part from 73 to 73 (to 72 in part parser)
+2023-10-12 19:06:47,329:DEBUG:diff parser end
+2023-10-12 19:06:48,264:DEBUG:diff parser start
+2023-10-12 19:06:48,265:DEBUG:line_lengths old: 73; new: 73
+2023-10-12 19:06:48,265:DEBUG:-> code[equal] old[1:11] new[1:11]
+2023-10-12 19:06:48,266:DEBUG:copy old[1:10] new[1:10]
+2023-10-12 19:06:48,269:DEBUG:parse_part from 11 to 12 (to 12 in part parser)
+2023-10-12 19:06:48,269:DEBUG:-> code[replace] old[12:12] new[12:12]
+2023-10-12 19:06:48,270:DEBUG:-> code[equal] old[13:73] new[13:73]
+2023-10-12 19:06:48,271:DEBUG:copy old[13:72] new[13:72]
+2023-10-12 19:06:48,271:DEBUG:parse_part from 73 to 73 (to 72 in part parser)
+2023-10-12 19:06:48,272:DEBUG:diff parser end
+2023-10-12 19:06:49,133:DEBUG:diff parser start
+2023-10-12 19:06:49,134:DEBUG:line_lengths old: 73; new: 73
+2023-10-12 19:06:49,134:DEBUG:-> code[equal] old[1:11] new[1:11]
+2023-10-12 19:06:49,135:DEBUG:copy old[1:10] new[1:10]
+2023-10-12 19:06:49,136:DEBUG:parse_part from 11 to 12 (to 12 in part parser)
+2023-10-12 19:06:49,136:DEBUG:-> code[replace] old[12:12] new[12:12]
+2023-10-12 19:06:49,137:DEBUG:-> code[equal] old[13:73] new[13:73]
+2023-10-12 19:06:49,138:DEBUG:copy old[13:72] new[13:72]
+2023-10-12 19:06:49,139:DEBUG:parse_part from 73 to 73 (to 72 in part parser)
+2023-10-12 19:06:49,140:DEBUG:diff parser end
+2023-10-12 19:07:24,619:DEBUG:diff parser start
+2023-10-12 19:07:24,621:DEBUG:line_lengths old: 73; new: 72
+2023-10-12 19:07:24,621:DEBUG:-> code[equal] old[1:2] new[1:2]
+2023-10-12 19:07:24,622:DEBUG:copy old[1:2] new[1:2]
+2023-10-12 19:07:24,623:DEBUG:-> code[delete] old[3:3] new[3:2]
+2023-10-12 19:07:24,623:DEBUG:-> code[equal] old[4:7] new[3:6]
+2023-10-12 19:07:24,625:DEBUG:copy old[4:6] new[3:5]
+2023-10-12 19:07:24,629:DEBUG:parse_part from 6 to 7 (to 7 in part parser)
+2023-10-12 19:07:24,630:DEBUG:-> code[replace] old[8:9] new[7:8]
+2023-10-12 19:07:24,631:DEBUG:parse_part from 8 to 8 (to 8 in part parser)
+2023-10-12 19:07:24,632:DEBUG:-> code[equal] old[10:11] new[9:10]
+2023-10-12 19:07:24,633:DEBUG:copy old[10:10] new[9:9]
+2023-10-12 19:07:24,636:DEBUG:parse_part from 10 to 11 (to 11 in part parser)
+2023-10-12 19:07:24,637:DEBUG:-> code[replace] old[12:12] new[11:11]
+2023-10-12 19:07:24,637:DEBUG:-> code[equal] old[13:25] new[12:24]
+2023-10-12 19:07:24,639:DEBUG:copy old[13:13] new[12:12]
+2023-10-12 19:07:24,665:DEBUG:parse_part from 13 to 70 (to 70 in part parser)
+2023-10-12 19:07:24,666:DEBUG:-> code[replace] old[26:26] new[25:25]
+2023-10-12 19:07:24,666:DEBUG:-> code[equal] old[27:73] new[26:72]
+2023-10-12 19:07:24,667:DEBUG:copy old[72:72] new[71:71]
+2023-10-12 19:07:24,668:DEBUG:parse_part from 72 to 72 (to 71 in part parser)
+2023-10-12 19:07:24,669:DEBUG:diff parser end
+2023-10-12 19:07:47,281:DEBUG:diff parser start
+2023-10-12 19:07:47,282:DEBUG:line_lengths old: 72; new: 72
+2023-10-12 19:07:47,283:DEBUG:-> code[equal] old[1:10] new[1:10]
+2023-10-12 19:07:47,284:DEBUG:copy old[1:9] new[1:9]
+2023-10-12 19:07:47,286:DEBUG:parse_part from 10 to 11 (to 11 in part parser)
+2023-10-12 19:07:47,287:DEBUG:-> code[replace] old[11:11] new[11:11]
+2023-10-12 19:07:47,287:DEBUG:-> code[equal] old[12:72] new[12:72]
+2023-10-12 19:07:47,288:DEBUG:copy old[12:71] new[12:71]
+2023-10-12 19:07:47,290:DEBUG:parse_part from 72 to 72 (to 71 in part parser)
+2023-10-12 19:07:47,290:DEBUG:diff parser end
+2023-10-12 19:07:47,502:DEBUG:pickle loaded: /usr/lib/python3/dist-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2023-10-12 19:07:49,654:DEBUG:diff parser start
+2023-10-12 19:07:49,656:DEBUG:line_lengths old: 72; new: 72
+2023-10-12 19:07:49,656:DEBUG:-> code[equal] old[1:10] new[1:10]
+2023-10-12 19:07:49,659:DEBUG:copy old[1:9] new[1:9]
+2023-10-12 19:07:49,662:DEBUG:parse_part from 10 to 11 (to 11 in part parser)
+2023-10-12 19:07:49,665:DEBUG:-> code[replace] old[11:11] new[11:11]
+2023-10-12 19:07:49,665:DEBUG:-> code[equal] old[12:72] new[12:72]
+2023-10-12 19:07:49,667:DEBUG:copy old[12:71] new[12:71]
+2023-10-12 19:07:49,668:DEBUG:parse_part from 72 to 72 (to 71 in part parser)
+2023-10-12 19:07:49,668:DEBUG:diff parser end
+2023-10-12 19:07:52,042:DEBUG:diff parser start
+2023-10-12 19:07:52,043:DEBUG:line_lengths old: 72; new: 72
+2023-10-12 19:07:52,043:DEBUG:-> code[equal] old[1:10] new[1:10]
+2023-10-12 19:07:52,044:DEBUG:copy old[1:9] new[1:9]
+2023-10-12 19:07:52,046:DEBUG:parse_part from 10 to 11 (to 11 in part parser)
+2023-10-12 19:07:52,046:DEBUG:-> code[replace] old[11:11] new[11:11]
+2023-10-12 19:07:52,047:DEBUG:-> code[equal] old[12:72] new[12:72]
+2023-10-12 19:07:52,047:DEBUG:copy old[12:71] new[12:71]
+2023-10-12 19:07:52,048:DEBUG:parse_part from 72 to 72 (to 71 in part parser)
+2023-10-12 19:07:52,050:DEBUG:diff parser end
